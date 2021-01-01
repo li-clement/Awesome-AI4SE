@@ -1,31 +1,57 @@
-# Awesome-AI4SE
-
-#### 介绍
+# Awesome-AI4SE 
 A curated list of AI4SE resources
-与AI4SE相关的一些资源分享
 
-#### 软件架构
-软件架构说明
+## The Updates and News
+
+> Last updated: Jan. 1st, 2021. 
+
+The repo is maintained by [Clement Li](https://gitee.com/robekeane). The repo mainly summarizes the things relevant to AI4SE, including Papers, Books, Videos, Codes and of course, People.
+
+If you think this repo is useful, please ***watch***, ***star*** or ***fork*** it!
+
+Welcome to contribute to this repo, if you are interested in AI4SE! Feel free to creat a pull request or contact me.
 
 
-#### 安装教程
+> 
+> Note: Name Format - `repository name: one-sentence introduction` (with link to the corresponding repo)
+>
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+------
 
-#### 使用说明
+## TOC
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+- [Awesome-SLAM](#awesome-slam)
+	- [Stay Tuned for Constant Updates](#stay-tuned-for-constant-updates)
+	- [TOC](#toc)
+	- [Hot SLAM Repos on GitHub](#hot-slam-repos-on-github)
+	- [PC End SLAM](#pc-end-slam)
+		- [Visual SLAM](#visual-slam)
+			- [General](#general)
+			- [Monocular Visual SLAM](#monocular-visual-slam)
+			- [Stereo Visual SLAM](#stereo-visual-slam)
+			- [RGB-D Visual SLAM](#rgb-d-visual-slam)
+		- [Visual Inertial SLAM](#visual-inertial-slam)
+			- [General](#general-1)
+			- [Monocular Visual-Inertial SLAM](#monocular-visual-inertial-slam)
+			- [Stereo Visual-Inertial SLAM](#stereo-visual-inertial-slam)
+	- [Mobile End SLAM](#mobile-end-slam)
+		- [Depth Image API with iPhone 7 Plus (or newer)](#depth-image-api-with-iphone-7-plus-or-newer)
+	- [Tutorials](#tutorials)
+		- [General](#general-2)
+		- [Lie Algebra and Lie Groups](#lie-algebra-and-lie-groups)
+		- [Optimization Techniques](#optimization-techniques)
+	- [Selected Blogs](#selected-blogs)
+	- [Research Groups](#research-groups)
+	- [Community](#community)
 
-#### 参与贡献
+------
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+#### How to contribute
+
+1.  Fork the repo
+2.  Create a branch
+3.  Upload your code
+4.  Create Pull Request
 
 
 #### 特技
