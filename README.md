@@ -60,11 +60,13 @@ Welcome to contribute to this repo, if you are interested in AI4SE! Feel free to
 2. [Youtube: Software ate the world, now AI is eating Software - Using AI to write unit tests](https://www.youtube.com/watch?v=YaAiaHJ605w&ab_channel=Diffblue)
 3. [Youtube: AI for Software Testing](https://www.youtube.com/watch?v=eit9DYa_DMg&ab_channel=AICamp)
 
-## AI4SE Sub-Area -- AI for Developing
-0. [AIST: Association and Research Center of AI for Software Testing](https://www.aitesting.org/)
-1. [test.ai: A company of AI for Software Testing](https://www.test.ai/)
-2. [Youtube: Software ate the world, now AI is eating Software - Using AI to write unit tests](https://www.youtube.com/watch?v=YaAiaHJ605w&ab_channel=Diffblue)
-3. [Youtube: AI for Software Testing](https://www.youtube.com/watch?v=eit9DYa_DMg&ab_channel=AICamp)
+## AI4SE Sub-Area -- AI for Development
+0. [Youtube: AI Assisted Software Development and Diagnostics](https://www.youtube.com/watch?v=5YeRcGVpKVY&t=122s&ab_channel=MicrosoftResearch)
+
+## AI4SE Sub-Area -- AI for DevOps
+0. [Youtube: Performance Diagnosis in Cloud Microservices using Deep Learning](https://www.youtube.com/watch?v=UfXIbH4x4Lo&ab_channel=dos-group)
+0. [Youtube: AIOPS 2020](https://www.youtube.com/channel/UCzRpzvVTQNb03bRxorR-kzA/videos)
+
 
 
 #### How to contribute
